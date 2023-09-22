@@ -1,0 +1,1 @@
+git clone //bosch.com/dfsRB/DfsVN/LOC/Hc/RBVH/30_Projects/EI-300367_AE_VandV/RBVH_EAE23/BST/Sourcecode/02_arduino_source/NiclaSenseMeBLEUpdate
